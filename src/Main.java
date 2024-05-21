@@ -67,6 +67,7 @@ public class Main {
         System.out.println("PSI: " + PSI);
         System.out.println("SINT: " + SINT);
         System.out.println("ENF: " + ENF);
+
         System.out.println("Total de cursos superior: "+superior+"\nTotal de tecnicos: " +tecnico);
     }
 }
